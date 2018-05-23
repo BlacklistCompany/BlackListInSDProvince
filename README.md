@@ -7,7 +7,7 @@
 >以下方式二选一:
 >
 >- 在 issue 中, 按照表格的 title 写明相关信息.
->- clone 此项目, 并发送 pull request.
+>- fork 此项目, 并发送 pull request.
 
 ## 黑名单公司
 
